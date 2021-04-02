@@ -7,3 +7,8 @@
 ### Npm nodemon for automatically loading the app on dev mode
 ### dev script for developer mode
 ### The npm install for github repositories and no care about node_modules
+
+
+
+### Building a express server
+#### enviroment variables

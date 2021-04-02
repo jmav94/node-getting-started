@@ -1,0 +1,20 @@
+{
+  "name": "node-basics",
+  "version": "1.0.0",
+  "description": "Node Js & npm basics",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "gettingstarted",
+    "basics",
+    "learning",
+    "code"
+  ],
+  "author": "Juan Ahumada",
+  "license": "ISC"
+}

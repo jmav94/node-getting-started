@@ -12,3 +12,6 @@
 
 ### Building a express server
 #### enviroment variables
+
+### Express Framework
+#### GET enpoint

@@ -14,4 +14,7 @@
 #### enviroment variables
 
 ### Express Framework
-#### GET enpoint
+#### GET ENDPOINT
+#### POST ENDPOINT
+#### DELETE ENDPOINT
+#### PUT ENDPOINT
